@@ -9,5 +9,5 @@
 
 __pycache__
 
-results
-mlartifacts
+results/*
+mlartifacts/*
