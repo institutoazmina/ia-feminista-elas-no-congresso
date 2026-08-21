@@ -1,0 +1,13 @@
+.vscode
+
+*.env
+
+*.db
+*.parquet
+*.csv
+*.xlsx
+
+__pycache__
+
+results
+mlartifacts
