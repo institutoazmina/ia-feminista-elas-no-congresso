@@ -1,4 +1,4 @@
-datasets==4.8.5
+datasets==5.0.1
 evaluate==0.4.6
 ipython==9.14.0
 mlflow==3.12.0
